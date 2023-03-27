@@ -6,7 +6,8 @@
   "scripts": {
     "dev": "vite --port 5000",
     "build": "tsc && vite build",
-    "preview": "vite preview"
+    "preview": "vite preview",
+    "start": "vite"
   },
   "devDependencies": {
     "@types/three": "^0.149.0",
